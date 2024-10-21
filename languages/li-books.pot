@@ -1,0 +1,100 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Books\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-21 04:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: li-books"
+
+#: inc/register-books.php:52
+msgid "Autor"
+msgstr ""
+
+#. Name of the plugin
+msgid "Books"
+msgstr ""
+
+#: inc/register-books-metaboxes.php:56
+msgid "Cena:"
+msgstr ""
+
+#: inc/taxonomy-author.php:31
+msgid "Data urodzenia"
+msgstr ""
+
+#: inc/register-books-metaboxes.php:45
+msgid "Data wydania:"
+msgstr ""
+
+#: inc/register-books.php:25
+msgid "Dodaj książkę"
+msgstr ""
+
+#: inc/register-books.php:26
+msgid "Dodaj nową książkę"
+msgstr ""
+
+#: inc/register-books.php:27
+msgid "Edytuj książkę"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/litys"
+msgstr ""
+
+#: inc/register-books.php:22
+msgid "Książka"
+msgstr ""
+
+#: inc/register-books.php:21 inc/register-books.php:23
+#: inc/register-books.php:24
+msgid "Książki"
+msgstr ""
+
+#: inc/register-books.php:31
+msgid "Nie znaleziono książki"
+msgstr ""
+
+#: inc/register-books.php:32
+msgid "Nie znaleziono książki w koszu"
+msgstr ""
+
+#: inc/register-books.php:28
+msgid "Nowa książka"
+msgstr ""
+
+#: inc/register-books-metaboxes.php:34
+msgid "Numer książki:"
+msgstr ""
+
+#: inc/register-books-metaboxes.php:17
+msgid "Pola dodatkowe"
+msgstr ""
+
+#: inc/register-books.php:30
+msgid "Szukaj książek"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin adds a Custom Post Data named \"Books\" with two taxonomies and "
+"custom metadata."
+msgstr ""
+
+#: inc/register-books.php:59
+msgid "Wydawnictwo"
+msgstr ""
+
+#: inc/register-books.php:29
+msgid "Zobacz książkę"
+msgstr ""
